@@ -6622,3 +6622,11 @@ https://pairlist2.pair.net/mailman/listinfo/reportlab-users
 2025-08-12 15:10:18,570 383 INFO Soporte odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (26) done in 0.010s 
 2025-08-12 15:10:18,578 383 INFO Soporte odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (26) processed 0 records, 0 records remaining 
 2025-08-12 15:10:18,584 383 INFO Soporte odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (26) completed 
+2025-08-12 15:16:19,009 383 INFO Soporte odoo.addons.base.models.ir_cron: Job 'eCommerce: send email to customers about their abandoned cart' (37) starting 
+2025-08-12 15:16:19,025 383 INFO Soporte odoo.addons.base.models.ir_cron: Job 'eCommerce: send email to customers about their abandoned cart' (37) done in 0.015s 
+2025-08-12 15:16:19,032 383 INFO Soporte odoo.addons.base.models.ir_cron: Job 'eCommerce: send email to customers about their abandoned cart' (37) processed 0 records, 0 records remaining 
+2025-08-12 15:16:19,038 383 INFO Soporte odoo.addons.base.models.ir_cron: Job 'eCommerce: send email to customers about their abandoned cart' (37) completed 
+2025-08-12 15:16:19,055 383 INFO Soporte odoo.addons.base.models.ir_cron: Job 'Product: send email regarding products availability' (38) starting 
+2025-08-12 15:16:19,071 383 INFO Soporte odoo.addons.base.models.ir_cron: Job 'Product: send email regarding products availability' (38) done in 0.015s 
+2025-08-12 15:16:19,076 383 INFO Soporte odoo.addons.base.models.ir_cron: Job 'Product: send email regarding products availability' (38) processed 0 records, 0 records remaining 
+2025-08-12 15:16:19,080 383 INFO Soporte odoo.addons.base.models.ir_cron: Job 'Product: send email regarding products availability' (38) completed 
