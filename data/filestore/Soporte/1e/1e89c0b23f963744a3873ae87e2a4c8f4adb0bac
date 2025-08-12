@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20250808T140925Z - 96248@Soporte
+DTSTART:20250812T155505Z
+DTEND:20250812T185505Z
+ATTENDEE:MAILTO:gbaquero@grupointerfase.com.co
+CREATED:20250808T140925Z
+DESCRIPTION:Internal meeting for discussion for new pricing for product and
+  services.
+DTSTAMP:20250808T140925Z
+ORGANIZER;CN="YourCompany, Mitchell Admin":MAILTO:gbaquero@grupointerfase.c
+ om.co
+SUMMARY:Pricing Discussion
+END:VEVENT
+END:VCALENDAR
